@@ -1,7 +1,7 @@
 ### Olá! Eu sou o IgorGomes 👋
 
 
-- 🌱 Estudando JS/react native
+- 🌱 Estudando JavaScript Web /react /Angular /Vue.js
 - 📫 Contate-me no email igoroliveirasl0210@gmail.com
 - 😄 Pronouns: ele/dele
 
