@@ -3,6 +3,7 @@
 
 - 🌱 Estudando JavaScript Web /react /Angular
 - 📫 Contate-me no email igoroliveirasl0210@gmail.com
+- 📱  Whatsapp 55 35 991725264
 - 😄 Pronouns: ele/dele
 
 <div align="center">
