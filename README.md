@@ -1,4 +1,4 @@
-### Olá! Eu sou o IgorGomes 👋
+### Olá! Eu me chamo IgorGomes 👋
 
 
 - 🌱 Estudando /JavaScript/NextJS
