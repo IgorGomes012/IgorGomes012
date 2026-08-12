@@ -36,7 +36,7 @@ Estou trabalhando na atualização do meu portfólio com novos projetos em React
 
 Estou aberto a oportunidades como Desenvolvedor Front-end Júnior.
 
-💼 LinkedIn: Igor Gomes
+💼 LinkedIn: (https://www.linkedin.com/in/igor-gomes-430217263/)
 🌐 Portfólio: Meu Portfólio
 
 ⭐ React.js • Next.js • TypeScript • JavaScript • Desenvolvimento Front-end
