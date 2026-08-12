@@ -1,10 +1,45 @@
-### Olá! Eu me chamo IgorGomes 👋
+Olá! Eu sou o Igor Gomes 👋
+💻 Desenvolvedor Front-end
 
+Desenvolvedor Front-end com experiência profissional em desenvolvimento web, com foco na criação de interfaces modernas, responsivas e funcionais.
 
-- 🌱 Estudando /typeScript/ReactJS/NextJS
-- 📫 Contate-me no email igoroliveirasl0210@gmail.com
-- 📱  Whatsapp 55 (35) 991725264
-- 😄 Pronouns: ele/dele
+Atualmente estou retomando minha trajetória profissional na área de tecnologia e aprofundando meus conhecimentos no ecossistema Front-end, principalmente com React.js, Next.js, TypeScript e JavaScript.
+
+Busco uma oportunidade como Desenvolvedor Front-end Júnior, onde possa contribuir com minha experiência, continuar evoluindo tecnicamente e participar do desenvolvimento de produtos reais.
+
+🚀 Tecnologias e ferramentas
+
+Front-end
+
+React.js
+Next.js
+TypeScript
+JavaScript
+HTML5
+CSS3
+Styled Components
+
+Ferramentas e conhecimentos complementares
+
+Git & GitHub
+APIs REST
+Node.js
+Express.js
+SQL
+📌 Projetos
+
+Aqui você encontrará projetos desenvolvidos durante minha trajetória profissional e de estudos, além de novos projetos que estou construindo para aprimorar meus conhecimentos em desenvolvimento Front-end.
+
+Estou trabalhando na atualização do meu portfólio com novos projetos em React, Next.js e TypeScript.
+
+📫 Vamos conversar?
+
+Estou aberto a oportunidades como Desenvolvedor Front-end Júnior.
+
+💼 LinkedIn: Igor Gomes
+🌐 Portfólio: Meu Portfólio
+
+⭐ React.js • Next.js • TypeScript • JavaScript • Desenvolvimento Front-end
 
 <div align="center">
    <a href="https://github.com/IgorGomes012/
